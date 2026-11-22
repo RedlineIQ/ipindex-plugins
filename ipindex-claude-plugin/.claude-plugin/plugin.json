@@ -1,0 +1,24 @@
+{
+  "name": "ipindex",
+  "displayName": "IPIndex",
+  "description": "Search U.S. patent, trademark, and copyright records, EPO worldwide patent publications, and Canadian patents and trademarks, then trace recorded assignments and build citation-backed IP diligence reports with the hosted IPIndex service.",
+  "version": "0.4.0",
+  "author": {
+    "name": "BroadNarrow Labs, LLC",
+    "url": "https://www.ipindex.ai"
+  },
+  "homepage": "https://www.ipindex.ai",
+  "repository": "https://github.com/RedlineIQ/ipindex-plugins",
+  "license": "Proprietary",
+  "keywords": [
+    "ip",
+    "intellectual-property",
+    "patents",
+    "trademarks",
+    "copyrights",
+    "due-diligence",
+    "mcp"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json"
+}

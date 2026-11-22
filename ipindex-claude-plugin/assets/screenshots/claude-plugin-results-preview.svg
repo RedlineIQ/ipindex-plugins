@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">IPIndex registered-IP results preview</title>
+  <desc id="desc">Preview of a registered-IP search summary returned to Claude Desktop through the hosted IPIndex MCP service.</desc>
+  <rect width="1200" height="760" fill="#F9F6F1"/>
+  <rect x="154" y="86" width="892" height="588" fill="#FFFFFF" stroke="#DBD7CF" stroke-width="2"/>
+  <text x="210" y="170" fill="#15120D" font-family="Iowan Old Style, Palatino Linotype, Book Antiqua, Georgia, serif" font-size="40">Registered IP Search</text>
+  <rect x="920" y="132" width="42" height="42" fill="none" stroke="#2563EB" stroke-width="4"/>
+  <path d="M932 144L950 162M932 162L950 144" stroke="#2563EB" stroke-width="4" stroke-linecap="round"/>
+  <text x="210" y="216" fill="#2563EB" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="17">PATENTS - TRADEMARKS - COPYRIGHTS</text>
+  <line x1="210" y1="252" x2="990" y2="252" stroke="#DBD7CF" stroke-width="2"/>
+  <text x="210" y="308" fill="#15120D" font-family="Iowan Old Style, Palatino Linotype, Book Antiqua, Georgia, serif" font-size="26">Patents and applications</text>
+  <rect x="820" y="284" width="170" height="36" fill="#F3F0E9"/>
+  <text x="905" y="309" text-anchor="middle" fill="#15120D" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="18">12 records</text>
+  <text x="210" y="372" fill="#15120D" font-family="Iowan Old Style, Palatino Linotype, Book Antiqua, Georgia, serif" font-size="26">Trademark registrations</text>
+  <rect x="820" y="348" width="170" height="36" fill="#F3F0E9"/>
+  <text x="905" y="373" text-anchor="middle" fill="#15120D" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="18">5 records</text>
+  <text x="210" y="436" fill="#15120D" font-family="Iowan Old Style, Palatino Linotype, Book Antiqua, Georgia, serif" font-size="26">Copyright registrations</text>
+  <rect x="820" y="412" width="170" height="36" fill="#F3F0E9"/>
+  <text x="905" y="437" text-anchor="middle" fill="#15120D" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="18">3 records</text>
+  <line x1="210" y1="482" x2="990" y2="482" stroke="#DBD7CF" stroke-width="2"/>
+  <text x="210" y="536" fill="#615D54" font-family="Iowan Old Style, Palatino Linotype, Book Antiqua, Georgia, serif" font-size="24">Ownership and assignment caveats surface with each result,</text>
+  <text x="210" y="572" fill="#615D54" font-family="Iowan Old Style, Palatino Linotype, Book Antiqua, Georgia, serif" font-size="24">with deeper assignment history available on request.</text>
+  <text x="210" y="630" fill="#615D54" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="16">Source: hosted IPIndex MCP - https://mcp.ipindex.ai/mcp</text>
+</svg>

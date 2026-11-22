@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">IPIndex hosted connection preview</title>
+  <desc id="desc">Preview of Claude Desktop connecting to the hosted IPIndex MCP service with the IPIndex identity.</desc>
+  <rect width="1200" height="760" fill="#F9F6F1"/>
+  <rect x="154" y="86" width="892" height="588" fill="#FFFFFF" stroke="#DBD7CF" stroke-width="2"/>
+  <text x="600" y="191" text-anchor="middle" fill="#15120D" font-family="Iowan Old Style, Palatino Linotype, Book Antiqua, Georgia, serif" font-size="52" font-weight="400">IPInde</text>
+  <rect x="694" y="153" width="42" height="42" fill="none" stroke="#2563EB" stroke-width="4"/>
+  <path d="M706 165L724 183M706 183L724 165" stroke="#2563EB" stroke-width="4" stroke-linecap="round"/>
+  <text x="600" y="267" text-anchor="middle" fill="#2563EB" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="18">HOSTED MCP CONNECTION</text>
+  <text x="600" y="348" text-anchor="middle" fill="#15120D" font-family="Iowan Old Style, Palatino Linotype, Book Antiqua, Georgia, serif" font-size="46">Connect IPIndex in Claude Desktop</text>
+  <text x="600" y="399" text-anchor="middle" fill="#615D54" font-family="Iowan Old Style, Palatino Linotype, Book Antiqua, Georgia, serif" font-size="25">Authenticate once, then search official U.S. registered IP records</text>
+  <text x="600" y="434" text-anchor="middle" fill="#615D54" font-family="Iowan Old Style, Palatino Linotype, Book Antiqua, Georgia, serif" font-size="25">through IPIndex hosted policy, quota, and audit controls.</text>
+  <rect x="330" y="500" width="540" height="72" fill="#15120D"/>
+  <text x="600" y="546" text-anchor="middle" fill="#F9F6F1" font-family="Iowan Old Style, Palatino Linotype, Book Antiqua, Georgia, serif" font-size="25">Authenticate with IPIndex</text>
+  <text x="600" y="623" text-anchor="middle" fill="#615D54" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="16">ipindex-mcp-hosted - https://mcp.ipindex.ai/mcp</text>
+</svg>
